@@ -1,0 +1,22 @@
+# YoutubeObhod
+
+> YouTube тормозит из‑за DPI. YoutubeObhod обходит это на Windows 10/11 одним .bat файлом.
+
+YouTube тормозит из‑за DPI. YoutubeObhod обходит это на Windows 10/11 одним .bat файлом.
+
+## Страницы
+- Сайт: https://snaremedictitle.github.io/YoutubeObhod/
+- Релиз: https://github.com/SnareMedicTitle/YoutubeObhod/releases/latest
+- Исходный код: https://github.com/SnareMedicTitle/YoutubeObhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+- zapret youtube
+- запрет youtube
+
+Windows 10/11, без VPN, бесплатно.
